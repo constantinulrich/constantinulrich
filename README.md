@@ -1,5 +1,9 @@
-## Hi there 👋
+I'm a researcher at the German Cancer Research Center (DKFZ), working on **3D medical image analysis, foundation models, and data-centric AI**. My research focuses on developing robust and generalizable AI systems for medical imaging, with a growing interest in **agentic AI and reinforcement learning for scientific reasoning**.
 
+📚 [Google Scholar](https://scholar.google.com/citations?user=PtkCbCwAAAAJ&hl=en)
+
+
+**Other projects:** [Kurz erledigt](https://kurzerledigt.de/) / [Keep It Here](https://keepithere.tools/) — browser-based file utilities I develop as a side project.
 <!--
 **constantinulrich/constantinulrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
